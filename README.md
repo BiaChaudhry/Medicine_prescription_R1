@@ -1,3 +1,7 @@
 # Medicine_prescription_R1
-My first Repo on Github
+
+This is a Python code for Medical Prescription System.
+The system aims at taking the symptom of user and
+then prescribed the appropriate medicine to the user.
+
 
